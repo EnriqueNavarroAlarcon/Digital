@@ -3,7 +3,7 @@
 ### Team Members
 José Elias Ferreira Afonso  
 Enrique Navarro Alarcon  
-[Project Github Repository](https://github.com/zecarx7/Final_Project_Josefonso)  
+[Project Github Repository](https://github.com/EnriqueNavarroAlarcon/Digital/tree/master/labs)  
 
 # Objectives
 
