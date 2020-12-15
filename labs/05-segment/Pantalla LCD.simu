@@ -1,0 +1,18 @@
+<circuit noLinAcc="5" animate="75" type="simulide_0.4" speed="1000000" reactStep="50">
+ 
+Seven Segment-13: 
+<item rotation="0" vflip="1" x="-280" Show_id="false" Vertical_Pins="false" hflip="1" id="Seven Segment-13" NumDisplays="4" labelx="20" Color="0" y="-504" Resistance="1" labelrot="0" valLabely="0" itemtype="Seven Segment" objectName="Seven Segment-13" MaxCurrent="0.02" valLabRot="0" labely="-44" valLabelx="0" CommonCathode="true" Threshold="2.3999999999999999"/>
+ 
+74HC595-4: 
+<item Show_id="true" rotation="0" vflip="1" labely="-20" valLabRot="0" labelx="0" labelrot="0" x="-356" y="-172" objectName="74HC595-4" Logic_Symbol="true" hflip="1" id="74HC595-4" itemtype="Subcircuit" valLabelx="0" valLabely="0"/>
+ 
+74HC595-3: 
+<item Show_id="true" rotation="0" vflip="1" labely="-20" valLabRot="0" labelx="0" labelrot="0" x="-396" y="-388" objectName="74HC595-3" Logic_Symbol="true" hflip="1" id="74HC595-3" itemtype="Subcircuit" valLabelx="0" valLabely="0"/>
+ 
+atmega328-1: 
+<item rotation="0" vflip="1" x="-508" Init_gdb="false" Show_id="true" eeprom="" Program="" Auto_Load="false" hflip="1" id="atmega328-1" labelx="0" y="-228" labelrot="0" Mhz="16" valLabely="0" Logic_Symbol="false" itemtype="AVR" objectName="atmega328-1" valLabRot="0" labely="-20" valLabelx="0"/>
+ 
+PlotterWidget: 
+<item objectName="PlotterWidget" contextMenuPolicy="1" accessibleName="" modal="false" windowTitle="" whatsThis="" autoFillBackground="false" maximumSize="" Tracks="1" baseSize="" normalGeometry="" visible="false" maximized="false" minimumWidth="200" minimumHeight="200" toolTip="" enabled="true" styleSheet="" minimized="false" statusTip="" cursor="" childrenRect="" size="" font="MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0" updatesEnabled="true" Scale="1" maximumHeight="200" rect="" width="200" y="0" frameSize="" minimumSizeHint="" fullScreen="false" windowFilePath="" pos="" windowIcon="" acceptDrops="false" MinVolt="-500" x="0" maximumWidth="1000" windowModality="0" windowIconText="" toolTipDuration="-1" windowModified="false" locale="" height="200" focusPolicy="0" sizeHint="" isActiveWindow="true" accessibleDescription="" layoutDirection="0" frameGeometry="" geometry="" mouseTracking="false" windowOpacity="1" inputMethodHints="0" MaxVolt="500" sizeIncrement="" focus="false" childrenRegion="" itemtype="Plotter" palette="" sizePolicy="" minimumSize=""/>
+ 
+</circuit>
